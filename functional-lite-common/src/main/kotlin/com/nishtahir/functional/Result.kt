@@ -1,4 +1,4 @@
-package com.nishtahir.function
+package com.nishtahir.functional
 
 sealed class Result<out T, out E> {
 

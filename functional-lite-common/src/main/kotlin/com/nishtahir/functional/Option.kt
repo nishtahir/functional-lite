@@ -1,4 +1,4 @@
-package com.nishtahir.function
+package com.nishtahir.functional
 
 /**
  * @param T: Expected optional type
